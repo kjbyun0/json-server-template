@@ -1,444 +1,547 @@
 {
-  "example": [
+  "groceryStore": [
     {
       "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000318627.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000318627-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Large Hass Avocado",
+      "productUnit": "each",
+      "productPrice": 1.64,
+      "unit": "each",
+      "unitPrice": 1.64,
+      "description": "Known for their dark green skin, large Hass avocados are full of creamy, nutty flavor. Essential for making fresh guacamole, you can also add chunks to salads or whip up some yummy avocado toast. To check if they're ripe and ready, give them a gentle squeeze. They should yield a bit to the pressure and not feel rock hard or mushy."
     },
     {
       "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001530771.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001530771-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Season's Select Fresh Baby Gold Potatoes",
+      "productUnit": "1.5 lb Bag",
+      "productPrice": 4.96,
+      "unit": "oz",
+      "unitPrice": 0.21,
+      "description": "Great boiled or oven-roasted, Season's Select Baby Gold Potatoes have a delicious buttery flavor. With a thin skin and a golden-colored flesh, they're a popular pick for making a tasty side. And thanks to their petite size, they cook much quicker than full-size spuds, saving you time at dinnertime."
     },
     {
       "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000374744.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000374744-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Zucchini Squash",
+      "productUnit": "Avg. 0.45 lb",
+      "productPrice": 0.65,
+      "unit": "lb",
+      "unitPrice": 1.44,
+      "description": "A popular summer squash, with a light and delicate flavor, enjoy this summer squash steamed, grilled, sauteed, fried, or baked for a simple and easy vegetable dish."
     },
     {
       "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000374745.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000374745-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Yellow Squash",
+      "productUnit": "Avg. 0.61 lb",
+      "productPrice": 0.75,
+      "unit": "lb",
+      "unitPrice": 1.23,
+      "description": "Yellow Squash has a great taste with a bright sunny color."
     },
     {
       "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000374791.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000374791-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Green Cabbage",
+      "productUnit": "Avg. 2.75 lbs",
+      "productPrice": 1.87,
+      "unit": "lb",
+      "unitPrice": 0.68,
+      "description": "Fresh green cabbage offers a satisfying crunch that livens up salads and stir fry. A versatile vegetable that can be enjoyed fresh or cooked, try simmering on the stovetop or sautéing with other vegetables for a cruciferous addition to your next culinary creation."
     },
     {
       "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000325175.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000325175-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Cilantro",
+      "productUnit": "Each",
+      "productPrice": 0.36,
+      "unit": "each",
+      "unitPrice": 0.36,
+      "description": "Bright, lemony and slightly peppery in taste, this bunch of cilantro is a highly versatile herb to always have on hand. It’s widely used as garnish in Mexican, Middle Eastern, Indian and Asian cuisine. After picking off the green leaves and discarding the stems, rinse leaves well and scatter fresh on top of pasta salads, rice, tacos and more."
     },
     {
       "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000318575.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000318575-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Greenhouse Tomato",
+      "productUnit": "Avg. 0.55 lb",
+      "productPrice": 1.02,
+      "unit": "lb",
+      "unitPrice": 1.85,
+      "description": "Grown in a greenhouse, these fresh tomatoes are perfect for topping a burger or a BLT sandwich. Large and juicy, they're protected from the elements while they ripen to the peak of perfection. Pick up some for that fresh summery tomato taste."
     },
     {
       "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000374707.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000374707-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Serrano Peppers",
+      "productUnit": "Avg. 0.03 lb",
+      "productPrice": 0.08,
+      "unit": "lb",
+      "unitPrice": 2.68,
+      "description": "Fresh Serrano Peppers"
     },
     {
       "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000319052.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000319052-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Broccoli Crowns",
+      "productUnit": "Avg. 0.65 lb",
+      "productPrice": 1.13,
+      "unit": "lb",
+      "unitPrice": 1.74,
+      "description": "Broccoli can be eaten raw or cooked. No matter which way it is consumed, its a good source for nutrition."
     },
     {
       "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "vegetables",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000377484.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000377484-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Season's Select Fresh Sweet Onion",
+      "productUnit": "Avg. 0.65 lb",
+      "productPrice": 0.86,
+      "unit": "lb",
+      "unitPrice": 1.33,
+      "description": "Season's Select sweet onions are a handy addition to your produce drawer. Lacking the pungent punch that other onions have, they're less likely to make you cry when slicing or dicing. With a thin skin and a sweet juiciness, they're terrific caramelized or used raw in salads, relishes, as a garnish for tacos and to make homemade onion rings."
     },
     {
       "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000320665.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000320665-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Granny Smith Apples",
+      "productUnit": "3 lb Bag",
+      "productPrice": 2.79,
+      "unit": "each",
+      "unitPrice": 2.79,
+      "description": "Granny Smith apples are known for their distinctive bright green color and crisp, tart taste. This is the ideal apple for cooking and baking, especially caramel apples and apple pie."
     },
     {
       "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000513694.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000513694-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Green Bartlett Pear",
+      "productUnit": "Avg. 0.56 lb",
+      "productPrice": 0.97,
+      "unit": "lb",
+      "unitPrice": 1.73,
+      "description": "A sure sign of the fall season, green Bartlett pears are juicy with a smooth, buttery texture when fully ripe. Great for snacking on, they can also be baked or grilled. Slice some into wedges for your next charcuterie board, or dice them up for a sweet addition to a salad. Let them ripen by placing some in a fruit bowl on your countertop."
     },
     {
       "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000577050.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000577050-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Dark Sweet Cherries",
+      "productUnit": "Avg. 2.0 lbs",
+      "productPrice": 14.52,
+      "unit": "lb",
+      "unitPrice": 7.26,
+      "description": "There’s nothing like sharing a bowl of dark sweet cherries. This fruity favorite is intensely sweet with a tangy aftertaste. Great for an anytime snack, they can also be pitted and used for making an all-American cherry pie or a cherry vinaigrette dressing."
     },
     {
       "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/008630008.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/008630008-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Fresh Premium Pineapple",
+      "productUnit": "Each",
+      "productPrice": 4.12,
+      "unit": "each",
+      "unitPrice": 4.12,
+      "description": "What makes our H-E-B Premium Pineapples so flavorful? It's the fact they're fully ripened on the plant to achieve a distinctive golden-colored shell and intensely sweet flavor! To prep this Costa Rican-grown tropical fruit, cut off the leafy crown and make a thin slice at the bottom. Then use the knife to peel off the rind. Cut around the inner core to reveal blocky sections for chunks, wedges, rings or spears."
     },
     {
       "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000325202.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000325202-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Cantaloupe",
+      "productUnit": "whole",
+      "productPrice": 3.24,
+      "unit": "each",
+      "unitPrice": 3.24,
+      "description": "Bright orange and sweet on the inside, cantaloupe is a good source of vitamins A and C. High in water content, this melon is ripe when the outer rind is creamy-colored with little to no green. Slice one open, scoop out the seeds and cut into bite-sized chunks or wedges for a mouthwatering snack."
     },
     {
       "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000321289.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000321289-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Raspberries",
+      "productUnit": "6 oz",
+      "productPrice": 2.48,
+      "unit": "oz",
+      "unitPrice": 0.41,
+      "description": "For tangy sweetness, add some fresh raspberries to your cart. Great atop cereal or yogurt, this tart fruit also comes in handy for making smoothies or your favorite desserts."
     },
     {
       "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000321197.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000321197-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Persimmon",
+      "productUnit": "Each",
+      "productPrice": 3.10,
+      "unit": "each",
+      "unitPrice": 3.10,
+      "description": "Light to dark orange in color, persimmons can be enjoyed fresh as a snack or poached, roasted, baked, broiled or grilled. To prepare, cut out the top tomato-like stem (along with any tough skin that's below it) and slice it up, discarding any black seeds as you go. As persimmons ripen, their mildness takes on a fruity sweet taste, and they're especially popular in China and Japan, often called the fruit of the Gods. Add some fresh persimmon to a salad or homemade salsa, or roast some slices alongside pork or chicken."
     },
     {
       "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000321286.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000321286-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Strawberries",
+      "productUnit": "1 lb",
+      "productPrice": 4.13,
+      "unit": "oz",
+      "unitPrice": 0.26,
+      "description": "Enjoy the light, refreshing taste of fresh strawberries. Full of sweet, juicy flavor, they're a healthy snack or sweet addition to your favorite desserts. Strawberries are also a good source of Vitamin C, fiber and potassium."
     },
     {
       "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000321290.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000321290-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Blackberries",
+      "productUnit": "6 oz",
+      "productPrice": 2.37,
+      "unit": "oz",
+      "unitPrice": 0.40,
+      "description": "Fresh blackberries are a tart, yet sweet fruit. Packaged in a resealable container, they're easy to enjoy with your favorite breakfast, like yogurt, oatmeal, smoothies and pancakes. Or use some in baked desserts, like blackberry pie or fruit cobbler."
     },
     {
       "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "fruits",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001669538.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001669538-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Jumbo Blueberries",
+      "productUnit": "9.8 oz",
+      "productPrice": 6.22,
+      "unit": "oz",
+      "unitPrice": 0.63,
+      "description": "Jumbo blueberries have the same great taste but double the size. Delicious, full of antioxidants, a great source of Vitamin C and fiber."
     },
     {
       "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000779179.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000779179-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Fresh Atlantic Salmon Center Cut Tray Pack, Farm Raised",
+      "productUnit": "Avg. 1.15 lbs",
+      "productPrice": 20.06,
+      "unit": " lb",
+      "unitPrice": 17.44,
+      "description": "Atlantic Salmon has a mild flavor, medium-firm flesh and large flakes. A great source of heart-healthy Omega-3 fatty acids, vitamins and minerals, Atlantic Salmon is a delicious and nutritious choice for your next meal."
     },
     {
       "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001767797.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001767797-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Natural Boneless Skinless Chicken Breasts",
+      "productUnit": "Avg. 2.85 lbs",
+      "productPrice": 14.19,
+      "unit": "lb",
+      "unitPrice": 4.98,
+      "description": "Fresh from Texas farms, H-E-B Natural Boneless Chicken Breasts taste just like they should—juicy and tender with no antibiotics, no added growth hormones, no artificial ingredients and no preservatives. Contains rib meat."
     },
     {
       "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001475819.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001475819-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Original Bacon",
+      "productUnit": "12 oz",
+      "productPrice": 5.19,
+      "unit": "oz",
+      "unitPrice": 0.43,
+      "description": "Tuck some H-E-B Original Bacon into your next burger or sandwich. Full of rich, savory flavor, it's naturally double smoked with hickory and mesquite. Enjoy every crispy crunch knowing it's gluten free with no added MSG."
     },
     {
       "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000371322.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000371322-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B 100% Pure Ground Beef Chuck, 80% Lean",
+      "productUnit": "Avg. 1.12 lbs",
+      "productPrice": 5.56,
+      "unit": "lb",
+      "unitPrice": 4.96,
+      "description": "Whip up any of your hamburger-based recipe favorites with this H-E-B ground beef chuck. Boasting no additives or preservatives, it's 80% lean/20% fat, which means whatever you're cooking or grilling will turn out extra juicy."
     },
     {
       "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001107983.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001107983-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Natural St. Louis Style Pork Spareribs",
+      "productUnit": "Avg. 3.43 lbs",
+      "productPrice": 16.36,
+      "unit": "lb",
+      "unitPrice": 4.77,
+      "description": "Your favorite BBQ sauce is meant for H-E-B Natural St. Louis Style Pork Spareribs. St. Louis Style means that these spareribs are flatter and easier to grill than baby back. Enjoy the juicy, mouth-watering taste without any artificial ingredients, preservatives or added growth hormones."
     },
     {
       "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000371801.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000371801-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Beef Boneless New York Strip Steak",
+      "productUnit": "Avg. 0.63 lb",
+      "productPrice": 7.53,
+      "unit": "lb",
+      "unitPrice": 11.95,
+      "description": "When it's steak night, try H-E-B Beef Boneless New York Strip Steak. Since it's 100% natural with no artificial ingredients or preservatives, all you can taste is the delicious flavor of juicy beef. Plus, it's easy to cook—just pop it on the grill or pan sear in butter and herbs."
     },
     {
       "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000373460.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000373460-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Wild Caught Raw North Atlantic Lobster Tail",
+      "productUnit": "4-5 oz",
+      "productPrice": 10.37,
+      "unit": "each",
+      "unitPrice": 10.37,
+      "description": "Our North Atlantic lobster tail offer the unique sweetness of lean meat and firm in texture. Soft and tender when cooked, it's perfect for boiling or grilling."
     },
     {
       "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/002211587.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/002211587-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Fully Cooked Hickory-Smoked Uncured Carver Ham",
+      "productUnit": "Avg. 3.8 lbs",
+      "productPrice": 19.72,
+      "unit": "lb",
+      "unitPrice": 5.19,
+      "description": "Fully cooked and easy to heat in the oven, this H-E-B carver ham is hardwood-smoked over hickory wood by Frick’s Quality Meats in Missouri. Uncured and not preserved, it’s a tasty shortcut to making an impressive holiday meal. After warming it up, place ham on a big platter and carve into ¼inches thick slices."
     },
     {
       "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000313261.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000313261-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Hill Country Fare Chicken Drumsticks, Value Pack",
+      "productUnit": "Avg. 4.2 lbs",
+      "productPrice": 4.16,
+      "unit": "lb",
+      "unitPrice": 0.99,
+      "description": "Hill Country Fare Chicken Drumsticks are 100% natural with no added preservatives, artificial ingredients or hormones."
     },
     {
       "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "meatSeafood",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000371597.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000371597-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Boneless Beef Chuck Roast - USDA Select",
+      "productUnit": "Avg. 2.85 lbs",
+      "productPrice": 17.76,
+      "unit": "lb",
+      "unitPrice": 6.23,
+      "description": "For your next crockpot creation, pick up an H-E-B Beef Chuck Roast. It's USDA Select and 100% natural, with no artificial ingredients or preservatives. Also known as a pot roast, this juicy cut is full of rich beefy flavor and incredible tenderness when braised in a pressure cooker or slow-cooked in the oven. During the last hour of cooking, try surrounding it with your favorite root vegetables for a complete one-pot meal."
     },
     {
       "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "dairyEggs",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000314130.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000314130-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Whole Milk",
+      "productUnit": "1 gal",
+      "productPrice": 3.70,
+      "unit": "oz",
+      "unitPrice": 0.03,
+      "description": "We take pride in our products and believe what we put IN is just as important as what we leave OUT. That's why our foodie experts carefully choose all ingredients that become part of H-E-B Select Ingredients items. What's not included? Hundreds of synthetic ingredients, such as high fructose corn syrup, artificial flavors or certified colors. Totaling over 1,000 products and growing, this brand is easy to find online and in store—just check for the green checkmark!"
     },
     {
       "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "dairyEggs",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001011641.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001011641?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Grade AA Cage Free Large Brown Eggs",
+      "productUnit": "12 ct",
+      "productPrice": 2.68,
+      "unit": "ct",
+      "unitPrice": 0.22,
+      "description": "Build your best breakfast taco ever by scrambling up some H-E-B Grade AA Cage-Free Large Brown Eggs. All natural and Grade AA quality, this cage-free dozen comes Texas farms. No artificial growth hormones or antibiotics."
     },
     {
       "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "dairyEggs",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000310756.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000310756-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Sweet Cream Unsalted Butter",
+      "productUnit": "4 ct",
+      "productPrice": 4.97,
+      "unit": "oz",
+      "unitPrice": 0.31,
+      "description": "Your favorite cooking and baking recipes deserve the goodness of H-E-B Select Ingredients Sweet Cream Unsalted Butter. Made with sweet cream that’s sourced from cows NOT treated with artificial growth hormones (rBST), each stick has rich butter taste and is made in the USA."
     },
     {
       "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "dairyEggs",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001715428.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001715428-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Non-Fat Plain Greek Yogurt",
+      "productUnit": "32 oz",
+      "productPrice": 5.08,
+      "unit": "oz",
+      "unitPrice": 0.16,
+      "description": "With 17 grams of protein per serving, H-E-B Select Ingredients Non-Fat Plain Greek Yogurt is a winning choice for breakfast time or anytime. Super thick and creamy, it has no fat or artificial growth hormones. Enjoy it with granola and honey or use it to make your favorite veggie dip."
     },
     {
       "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "dairyEggs",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000970982.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000970982-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Colby & Monterey Jack Sliced Cheese",
+      "productUnit": "10 ct",
+      "productPrice": 3.10,
+      "unit": "oz",
+      "unitPrice": 0.39,
+      "description": "Get two types of cheeses in one thin slice! Colby is softer and less tangy than cheddar while Monterey Jack is mild, buttery, and slightly tangy. Together, they make the perfect cheese blend thinly-sliced for your convenience and in a reclosable tray for maximum freshness. Gluten Free and made with no artificial growth hormones.*"
     },
     {
       "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "pentry",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001382915.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001382915-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Extra Virgin Olive Oil",
+      "productUnit": "3 L",
+      "productPrice": 30.14,
+      "unit": "fl oz",
+      "unitPrice": 0.30,
+      "description": "H-E-B Select Ingredients Extra Virgin Olive Oil delivers bold olive flavor with the benefits of unrefined extra virgin olive oil. Use this oil as your pantry staple for cooking, dipping or drizzling!"
     },
     {
       "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "pentry",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/004876516.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/004876516-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Original Diced Tomatoes With Green Chiles",
+      "productUnit": "10 oz",
+      "productPrice": 1.02,
+      "unit": "oz",
+      "unitPrice": 0.10,
+      "description": "H-E-B Original Diced Tomatoes with Green Chilies is your pantry staple to spice-up practically any dish! The fresh flavor of diced tomatoes combined with vibrant green chilies and Southwest-inspired spices brings big flavor to soups, casseroles, dips and more. GAMEDAY GUACAMOLE RECIPE Ingredients: 3 large avocados + ⅓ cup red onion, finely diced + 1 can H-E-B® Select Ingredients Original Diced Tomatoes with Green Chiles, drained + 1 medium Serrano pepper, stemmed, seeded, finely chopped + 1 tbsp fresh lime juice + 2 tsp fresh orange zest + ¼ cup fresh cilantro leaves, finely chopped Directions: Peel and mash avocados. Add ingredients to coarse avocado mash, mixing well. Season to taste with salt and pepper. Serve and enjoy with your favorite chips, crackers or veggies!"
     },
     {
       "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "pentry",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/000390314.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/000390314-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Little Debbie Nutty Buddy Bars",
+      "productUnit": "12 ct",
+      "productPrice": 2.79,
+      "unit": "oz",
+      "unitPrice": 0.23,
+      "description": "Wafer bars with peanut butter. America's obsession with peanut butter boils down to the key ingredient, the peanut. Peanuts are a versatile snack. Whether salted, sweetened, roasted or boiled - peanuts and peanut butter are a delicious source of protein. Fun Facts: Peanut plants flower above the ground while the peanuts grow underground. They are planted in the spring and are normally ready to harvest by fall. While peanuts are grown in 13 states of the US, Georgia plants more peanuts than any other state. In fact, most of the peanuts used in Little Debbie Nutty Buddy wafers are grown in Georgia. Did you know that former President Jimmy Carter was a peanut farmer from Georgia?"
     },
     {
       "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "pentry",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001535361.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001535361-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Healthy Garden Combo Pasta Sauce",
+      "productUnit": "15.5 oz",
+      "productPrice": 2.06,
+      "unit": "oz",
+      "unitPrice": 0.13,
+      "description": "When it comes to pasta sauce you want delicious flavor, not a ton of sugar and high fructose corn syrup. That's exactly what you get with our H-E-B Healthy Garden Combo Pasta Sauce! All of our H-E-B Healthy Pasta Sauces contain 64 mg of Omega-3s per serving and are an excellent source of fiber and Vitamin A."
     },
     {
       "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "category": "pentry",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001739770.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001739770-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "H‑E‑B Organics Spaghetti",
+      "productUnit": "16 oz",
+      "productPrice": 1.78,
+      "unit": "oz",
+      "unitPrice": 0.11,
+      "description": "H-E-B Organics spaghetti noodles are made from organic semolina wheat. Great for your next pasta night, they're easy to cook on the stovetop."
+    },
+    {
+      "id": 41,
+      "category": "beverages",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/004718573.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/004718573-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Hill Country Fare Sports Drink Variety Pack 12 oz Bottles",
+      "productUnit": "24 pk",
+      "productPrice": 11.42,
+      "unit": "oz",
+      "unitPrice": 0.04,
+      "description": "Hill Country Fare Sports Drink Variety Pack"
+    },
+    {
+      "id": 42,
+      "category": "beverages",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/005138007.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/005138007-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Hill Country Fare Purified Drinking Water 40 pk Bottles",
+      "productUnit": "16.9 oz",
+      "productPrice": 5.57,
+      "unit": "pack",
+      "unitPrice": 0.14,
+      "description": "Stock up on purified drinking water with this 40-pack of bottles from Hill Country Fare. Enhanced with minerals for better taste, this water is packaged in non-BPA bottles. Plus, both the bottles and the packaging can be recycled, taking up less space in your garbage bin. Enjoy this water chilled or at room temperature and get the hydration you need."
+    },
+    {
+      "id": 43,
+      "category": "beverages",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/002088617.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/002088617-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Simply Lemonade with Strawberry",
+      "productUnit": "52 oz",
+      "productPrice": 2.68,
+      "unit": "oz",
+      "unitPrice": 0.05,
+      "description": "Simply Lemonade with Strawberry combines the refreshing taste of Simply Lemonade with sweet strawberries, resulting in delicious and all natural refreshment."
+    },
+    {
+      "id": 44,
+      "category": "beverages",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/002102895.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/002102895-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Coca-Cola Classic Coke Mini 7.5 oz Cans",
+      "productUnit": "10 pk",
+      "productPrice": 7.24,
+      "unit": "oz",
+      "unitPrice": 0.10,
+      "description": "Sip-sized 7.5 oz cans. Per 1 Can Serving: 90 calories; 0 g sat fat (0% DV); 30 mg sodium (1% DV); 25 g sugars. Very low sodium. Caffeine Content: 21 mg/7.5 fl oz. Original formula. Please recycle cans & cartons."
+    },
+    {
+      "id": 45,
+      "category": "beverages",
+      "thumbnail": "https://images.heb.com/is/image/HEBGrocery/prd-small/001282225.jpg",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001282225-1?jpegSize=150&hei=1400&fit=constrain&qlt=75",
+      "name": "Niagara Purified Drinking Water 16.9 oz Bottles",
+      "productUnit": "32 pk",
+      "productPrice": 4.76,
+      "unit": "oz",
+      "unitPrice": 0.01,
+      "description": "Our most popular size comes in an array of pack sizes to suit your needs. The lightweight Eco-Air Bottle design also ensures that our bottle doesn't weigh you or the planet down. Enjoy our 0.5L size water virtually anywhere. From your home to the outdoors, you can be sure you will stay hydrated all day long."
     }
-  ]
+  ],
+  "myList": [],
+  "myCart": [],
+  "myStorage": []
 }
